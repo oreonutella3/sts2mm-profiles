@@ -37,9 +37,26 @@
       "enabled": true,
       "bundle_url": "https://github.com/oreonutella3/sts2mm-profiles/releases/download/bundles/BaseLib_v3.4.7_08acfbf2.zip",
       "bundle_sha256": "08acfbf270a4226575a616fffc9fa3b1b1ec13c658f4cc6148879f24956dc9fc"
+    },
+    {
+      "mod_version_id": "c20a9ec4-8f53-4cf2-941a-d557902ae88d",
+      "name": "SlayThePlayer",
+      "version": "v1.3.0",
+      "source": null,
+      "hash": "3a73be70d5206a377591688106603c14153bb9a589e3ccab0ebc5452453a1293",
+      "files": [
+        "SlayThePlayer/SlayThePlayer.dll",
+        "SlayThePlayer/SlayThePlayer.pck",
+        "SlayThePlayer/SlayThePlayer.json"
+      ],
+      "folder_name": "SlayThePlayer",
+      "mod_id": "SlayThePlayer",
+      "enabled": true,
+      "bundle_url": "https://github.com/oreonutella3/sts2mm-profiles/releases/download/bundles/SlayThePlayer_v1.3.0_a0091cd5.zip",
+      "bundle_sha256": "a0091cd5b89e2295f0b7f64f37d19c0afd85d414edfedba944e5fe0e098c4d9c"
     }
   ],
   "created_at": "2026-10-23T03:04:06.285741Z",
-  "updated_at": "2026-10-23T03:14:09.534020Z",
+  "updated_at": "2026-10-23T09:08:30.872734Z",
   "public": false
 }
