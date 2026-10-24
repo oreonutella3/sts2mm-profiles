@@ -1,0 +1,62 @@
+{
+  "id": "8eae213f-7479-4866-88fd-414470e9cce9",
+  "name": "balls",
+  "game_version": null,
+  "created_by": "oreonutella3",
+  "mods": [
+    {
+      "mod_version_id": "8e657c49-82c6-4bc1-9cd8-bb95305877c1",
+      "name": "BaseLib",
+      "version": "v3.4.7",
+      "source": null,
+      "hash": "55863ca6adc30a61a7544874e157a519ffe148ccf2b18025947609c4bff813ce",
+      "files": [
+        "BaseLib/BaseLib.dll",
+        "BaseLib/BaseLib.pck",
+        "BaseLib/BaseLib.json"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/oreonutella3/sts2mm-profiles/releases/download/bundles/BaseLib_v3.4.7_08acfbf2.zip",
+      "bundle_sha256": "08acfbf270a4226575a616fffc9fa3b1b1ec13c658f4cc6148879f24956dc9fc"
+    },
+    {
+      "mod_version_id": "c20a9ec4-8f53-4cf2-941a-d557902ae88d",
+      "name": "SlayThePlayer",
+      "version": "v1.3.0",
+      "source": null,
+      "hash": "3a73be70d5206a377591688106603c14153bb9a589e3ccab0ebc5452453a1293",
+      "files": [
+        "SlayThePlayer/SlayThePlayer.dll",
+        "SlayThePlayer/SlayThePlayer.pck",
+        "SlayThePlayer/SlayThePlayer.json"
+      ],
+      "folder_name": "SlayThePlayer",
+      "mod_id": "SlayThePlayer",
+      "enabled": true,
+      "bundle_url": "https://github.com/oreonutella3/sts2mm-profiles/releases/download/bundles/SlayThePlayer_v1.3.0_a0091cd5.zip",
+      "bundle_sha256": "a0091cd5b89e2295f0b7f64f37d19c0afd85d414edfedba944e5fe0e098c4d9c"
+    },
+    {
+      "mod_version_id": "61b1e375-574b-4588-9574-02ce5fe1105e",
+      "name": "Watcher",
+      "version": "1.5.12",
+      "source": null,
+      "hash": "02cff33813b4396403181c5684ff39115098c6cd60da91ef93c3d5fbab50fb48",
+      "files": [
+        "Watcher/Watcher.json",
+        "Watcher/Watcher.dll",
+        "Watcher/Watcher.pck"
+      ],
+      "folder_name": "Watcher",
+      "mod_id": "Watcher",
+      "enabled": true,
+      "bundle_url": "https://github.com/oreonutella3/sts2mm-profiles/releases/download/bundles/Watcher_v1.5.12_e7c515e2.zip",
+      "bundle_sha256": "e7c515e2972bd205448aaa2a1e8029bd5788cbf22f3b24883a862ecf9e81c025"
+    }
+  ],
+  "created_at": "2026-10-24T08:15:33.550108Z",
+  "updated_at": "2026-10-24T08:15:33.579779Z",
+  "public": false
+}
